@@ -10,3 +10,7 @@ This new word generation project is used to generate the new word with the given
 ![image](https://github.com/sowmyareddy1234/New_Word_Generation/assets/78583910/8ed59724-04fe-4ab2-8a31-210035433d85)
 ## Example 3:
 ![image](https://github.com/sowmyareddy1234/New_Word_Generation/assets/78583910/3c061bec-eccb-4d2d-ace9-a872ac71a074)
+
+# Documentation 
+<a href="https://docs.streamlit.io/" rel="nofollow">Offical Streamlit Documentation</a><br>
+<a href="https://openai.com/blog/openai-api" rel="nofollow">OpenAI API</a>
